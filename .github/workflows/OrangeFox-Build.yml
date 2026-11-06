@@ -20,7 +20,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
-        default: 'fox11-f2fs'
+        default: '11-f2fs'
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
